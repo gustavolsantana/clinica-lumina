@@ -16,3 +16,5 @@ Landing page responsiva desenvolvida para a Clínica Lumina, especializada em es
 *   JavaScript (Vanilla)
 *   Font Awesome (Ícones)
 *   Google Fonts (Playfair Display, Poppins)
+
+## ✨ Veja o site funcionando: https://gustavolsantana.github.io/clinica-lumina/
